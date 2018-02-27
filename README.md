@@ -9,12 +9,12 @@ Cкрипт для решения квадратных уравнений.
 #
 ***
 Пример кода:
-<h1>
+'''python
 from quadratic_equation import get_roots
 y1, y2 = get_roots(1, 1, -20)
 print("y1=",y1)
 print("y2=",y2)
-</h1>
+'''
 #
 ***
 Вывод:
