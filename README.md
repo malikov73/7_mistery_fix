@@ -6,9 +6,8 @@ Cкрипт для решения квадратных уравнений.
 Функция: get_roots().
 Принимает три аргумента a, b, c.
 Возвращает два числа.
+#
 Пример кода:
-#
-#
 from quadratic_equation import get_roots
 y1, y2 = get_roots(1, 1, -20)
 print("y1=",y1)
