@@ -10,6 +10,7 @@ Cкрипт для решения квадратных уравнений.
 ```python
 from quadratic_equation import get_roots
 y1, y2 = get_roots(1, 1, -20)
+print("Вывод:")
 print("y1=",y1)
 print("y2=",y2)
 ```
