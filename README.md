@@ -1,18 +1,20 @@
 # Решатель квадратных уравнений
 
 Cкрипт для решения квадратных уравнений.
-
+***
 # Как использовать
-Функция: get_roots().\n
-Принимает три аргумента a, b, c.\n
-Возвращает два числа.\n
+Функция: get_roots().
+Принимает три аргумента a, b, c.
+Возвращает два числа.
 #
-Пример кода:\n
-from quadratic_equation import get_roots\n
-y1, y2 = get_roots(1, 1, -20)\n
-print("y1=",y1)\n
-print("y2=",y2)\n
+***
+Пример кода:
+from quadratic_equation import get_roots
+y1, y2 = get_roots(1, 1, -20)
+print("y1=",y1)
+print("y2=",y2)
 #
+***
 Вывод:
 y1=-5
 y2=4
